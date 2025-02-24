@@ -1,2 +1,1 @@
-# .github
-fries
+its just the readme leave...
