@@ -1,4 +1,4 @@
 ## BOOTY CHEEKS CLIENT IM CRYING THISS SO SAD PLEASE STOP
 <h1 align="center">
-  <img src="https://i.pinimg.com/736x/ee/ce/5a/eece5a368e8b5b11046f85a2939e0c93.jpg" alt="Header Image" style="width:100%; max-width:600px;"/>
+  <img src="https://cdn.discordapp.com/attachments/1322334335495573636/1343722270337667173/yfiI8Dh.png?ex=67be4e62&is=67bcfce2&hm=40b58cd91a37f2a82101f798179cf7fbacb251b83fc924f4f19a26f33311be39&" alt="Header Image" style="width:100%; max-width:600px;"/>
 </h1>
