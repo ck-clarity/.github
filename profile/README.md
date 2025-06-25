@@ -6,4 +6,4 @@
 # Credits
 - Addon: developped by @x3ten on discord
 - Internal: developped by joshieman, x3ten, kwenma
-- join us at discord.gg/disabler or clarity.gay
+- join us at [here](https://discord.gg/JKDKbfc5mu) or clarity.gay
